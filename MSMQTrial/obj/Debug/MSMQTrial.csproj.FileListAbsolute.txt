@@ -1,0 +1,7 @@
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\obj\Debug\MSMQTrial.csprojAssemblyReference.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\obj\Debug\MSMQTrial.csproj.CoreCompileInputs.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\bin\Debug\MSMQTrial.exe.config
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\bin\Debug\MSMQTrial.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\bin\Debug\MSMQTrial.pdb
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\obj\Debug\MSMQTrial.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\MSMQTrial\obj\Debug\MSMQTrial.pdb
