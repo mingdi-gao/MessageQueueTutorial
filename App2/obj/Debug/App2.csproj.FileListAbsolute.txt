@@ -1,0 +1,7 @@
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\bin\Debug\App2.exe.config
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\bin\Debug\App2.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\bin\Debug\App2.pdb
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\obj\Debug\App2.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\App2\obj\Debug\App2.pdb

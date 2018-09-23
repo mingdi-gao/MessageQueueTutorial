@@ -1,0 +1,7 @@
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\bin\Debug\MsmqTriggerExe.exe.config
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\bin\Debug\MsmqTriggerExe.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\bin\Debug\MsmqTriggerExe.pdb
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\obj\Debug\MsmqTriggerExe.csprojAssemblyReference.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\obj\Debug\MsmqTriggerExe.csproj.CoreCompileInputs.cache
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\obj\Debug\MsmqTriggerExe.exe
+C:\Users\Mingdi Gao\repo\MSMQTrial\MsmqTriggerExe\obj\Debug\MsmqTriggerExe.pdb
